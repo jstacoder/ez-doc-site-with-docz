@@ -1,0 +1,15 @@
+{
+  "name": "ez-doc-site-with-docz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jstacoder/ez-doc-site-with-docz",
+  "author": "kyle roux <jstacoder@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docz": "^2.0.0-rc.8",
+    "gatsby": "^2.14.7",
+    "gatsby-theme-docz": "^2.0.0-rc.8",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}

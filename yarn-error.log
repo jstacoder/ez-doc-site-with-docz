@@ -1,0 +1,38 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\jstac\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react react-dom docz@next gatsby gatsby-theme-docz@next
+
+PATH: 
+  C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\ActiveState Komodo IDE 11\;C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\gtkmm64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Portable.NET\0.8.0\bin;C:\Program Files\TortoiseSVN\bin;C:\Python27amd64\Scripts;C:\Python27amd64;C:\Program Files\PowerShell\6.0.0-beta.9\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\WINDOWS\System32\LibreSSL\;C:\Program Files\Java\jdk1.8.0_162\bin;C:\Program Files\CMake\bin;C:\SDKS\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\PowerShell\6\;C:\Program Files\nodejs\;D:\scoop\shims;C:\Users\jstac\.poetry\bin;C:\Users\jstac\Anaconda3;C:\Users\jstac\Anaconda3\Library\mingw-w64\bin;C:\Users\jstac\Anaconda3\Library\usr\bin;C:\Users\jstac\Anaconda3\Library\bin;C:\Users\jstac\Anaconda3\Scripts;C:\Users\jstac\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\Hostx64\x64;C:\Program Files\7-Zip;C:\Program Files\Heroku\bin;C:\ProgramData\dotnet-script\dotnet-script;C:\Users\jstac\.lein\bin;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Users\jstac\AppData\Local\GitHubDesktop\bin;;C:\Users\jstac\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\jstac\.dotnet\tools;C:\Users\jstac\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm 2019.1\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\\Users\jstac\.npm-global\bin;C:\\Users\jstac\.npm-global;C:\Program Files\JetBrains\PyCharm 2019.1\bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  11.13.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "ez-doc-site-with-docz",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:jstacoder/ez-doc-site-with-docz",
+    "author": "kyle roux <jstacoder@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Client network socket disconnected before secure TLS connection was established
+      at TLSSocket.onConnectEnd (_tls_wrap.js:1214:19)
+      at Object.onceWrapper (events.js:281:20)
+      at TLSSocket.emit (events.js:198:15)
+      at endReadableNT (_stream_readable.js:1142:12)
+      at processTicksAndRejections (internal/process/task_queues.js:81:17)
